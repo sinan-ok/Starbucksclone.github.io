@@ -1,0 +1,668 @@
+*{
+    list-style: none;
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    text-decoration: none;
+} .logo-img{
+    width: 50px;
+    margin-left:30px;
+    margin-top: 20px;
+} 
+.nav{
+    max-width: 100%px;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+ .hii{
+    margin-top: -50px;
+    display: flex;
+    margin-left: -450px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+   
+   
+    
+ }
+.list{
+    margin-left: -120px;
+    margin-right: 150px;
+    color: black;
+    letter-spacing: 2px;
+}
+.location{
+    margin-left: 23cm;
+    font-size: 20px;
+    margin-top: -35px;
+}
+ .find{
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: -20px;
+    font-size: 13px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+} 
+.button1{
+    margin-left: 1000px;
+   margin-top: -20px;
+}
+.button-container {
+    display: flex;
+    justify-content: flex-end; 
+    margin-right: -100px; /* Adjust as needed */float: right;
+    margin-top: -15px; /* Keeps the vertical alignment */
+}
+
+.but{
+    width: 2.5cm;
+    height: 28px;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 13px;   
+    margin-left:190px;
+    margin-right: 170px;
+    float: right;
+    margin-top: -18px;
+    border:BOLD;
+    
+}.but1{
+    width: 2.5cm;
+    height: 28px;
+    border-radius: 20px;
+    background-color:black;
+    font-size: 13px;
+     margin-left:-20px;
+    margin-top:-28px;float: right;
+    margin-right: 50px;
+    color: white;
+
+}
+.image1{
+    width: 30%;
+    height: 10px;
+    
+    margin-bottom: 10px;
+}
+.imagep{
+    width: 10%;
+    display: flex;
+    height: 10px;
+}
+.img{
+    width: 650px;
+    height: 500px;
+    margin: 40px;
+    margin-left: 2px;
+
+}
+.line{
+    margin-top: 50px;
+    height: 2px;
+    background-color:rgb(255, 255, 255);
+    background-color: rgb(248, 245, 245);
+     
+} .background{
+    background-color: #9e2240;
+    width: 630px;
+    height: 500px;
+    
+    margin-left: 650px;
+    margin-top: -14.4cm;
+} .head{
+      font-size: 50px;
+      font-weight: bold;
+      font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+      margin-left: 130px;
+      padding-top: 120px;
+      color: white;
+      letter-spacing: 2px;
+} .letter{
+    font-size:18px;
+    float: left;
+    margin-left: 130px;
+    margin-top:20px;
+    letter-spacing: .7px;
+    color: white;
+    line-height: 30px;
+    font-family:SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif; ;
+    
+}
+
+.image2{
+    width: 30%;
+    height: 10px;
+    
+    margin-bottom: 10px;
+}
+
+
+.img2{
+    width: 650px;
+    height: 500px;
+    margin-top: -345px;
+    margin-left: 650px;
+
+}
+
+  
+ .background2{
+    background-color:#d2d655;
+    width: 650px;
+    height: 500px;
+    margin-top:25px;
+} .head1{
+      font-size: 50px;
+      font-weight: bold;
+      font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+      margin-left: 130px;
+      padding-top: 120px;
+      color: rgb(3, 56, 27);
+      letter-spacing: 2px;
+} .letter2{
+    font-size:18px;
+    float: left;
+    margin-left: 130px;
+    margin-top:20px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    letter-spacing: .7px;
+    color: black;
+    line-height: 30px;
+    
+} .button{
+    
+    margin-left: -180px;
+    width: 3cm;
+    height: 32px;
+    border-radius: 20px;
+    background-color:#9e2240; 
+    font-size: 13px;   
+     color: white;
+    margin-right:  255px;
+    float: right;
+    margin-top: 150px;
+    border-width: 1px;
+    border-color: antiquewhite;
+} .button1{
+    margin-left: -180px;
+    width: 3.5cm;
+    height: 32px;
+    border-radius: 20px;
+    background-color:rgb(5, 66, 5); 
+    font-size: 13px;   
+     color: white;
+    margin-right:290px;
+    float: right;
+    margin-top: 150px;
+    font-weight: bold;
+    border-width: 1px;
+}
+    .button1:active{
+        background-color: rgb(87, 6, 13);
+        opacity: 0.6;;
+        transition: 1s;
+
+    }
+    .button:active{
+        background-color: rgb(65, 137, 65);
+        opacity: 0.6;;
+        transition: 1s;
+  
+    }
+    .image3{
+        width: 30%;
+        height: 10px;
+        
+        margin-bottom: 10px;
+    }
+    
+    .img3{
+        width: 650px;
+        height: 450px;
+        margin: 40px;
+        margin-left: 2px;
+    
+    }
+    
+     .background3{
+        background-color:#006241;
+        width: 630px;
+        height: 450px;
+        
+        margin-left: 650px;
+        margin-top: -13cm;
+    } .head3{
+          font-size: 50px;
+          font-weight: bold;
+          font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+          margin-left: 130px;
+          padding-top: 120px;
+          color: white;
+          letter-spacing: 2px;
+    } .letter3{
+        font-size:18px;
+        float: left;
+        margin-left: 130px;
+        margin-top:20px;
+        letter-spacing: .7px;
+        color: white;
+        line-height: 30px;
+        font-family:SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif; ;
+    }   
+    .button3{
+        margin-left: -180px;
+        width: 3.2cm;
+        height: 32px;
+        border-radius: 20px;
+        background-color:#006241; 
+        font-size: 13px;   
+         color: white;
+        margin-right:250px;
+        float: right;
+        margin-top: 40px;
+        font-weight: bold;
+        border-color: white;
+        border-width: 1px;
+    }
+    .image4{
+        width: 30%;
+        height: 10px;
+        
+        margin-bottom: -10px;
+    }
+    
+    
+    .img4{
+        width: 650px;
+        height: 500px;
+        margin-top: -406px;
+        margin-left: 650px;
+    
+    }
+     .background4{
+        background-color:#d9e89a;
+        width: 650px;
+        height: 500px;
+        margin-top:25px;
+    } .head4{
+          font-size: 50px;
+          font-weight: bold;
+          font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+          margin-left: 130px;
+          padding-top: 120px;
+          color: rgb(3, 56, 27);
+          letter-spacing: 2px;
+    } .letter4{
+        font-size:18px;
+        float: left;
+        margin-left: 130px;
+        margin-top:20px;
+        font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+        letter-spacing: .7px;
+        color: black;
+        line-height: 30px;
+        
+    } .button4{
+        
+        margin-left: -180px;
+        width: 3cm;
+        height: 32px;
+        border-radius: 20px;
+        background-color:#d9e89a;
+        font-size: 13px;   
+         color:rgb(3, 56, 27);
+        margin-right:  280px;
+        float: right;
+        margin-top: 30px;
+        border-width: 1px;
+        
+        border-color:rgb(3, 56, 27);
+    } 
+    .image5{
+        width: 30%;
+        height: 10px;
+        
+        margin-bottom: 10px;
+    }
+    
+    
+    .img5{
+        width: 650px;
+        height: 500px;
+        margin: 40px;
+        margin-left: 2px;
+    
+    }
+    
+     .background5{
+        background-color:#d2d655;
+        width: 630px;
+        height: 500px;
+        
+        margin-left: 650px;
+        margin-top: -14.4cm;
+    } .head5{
+          font-size: 50px;
+          font-weight: bold;
+          font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+          margin-left: 130px;
+          padding-top: 120px;
+          color: black;
+          letter-spacing: 2px;
+    } .letter5{
+        font-size:18px;
+        float: left;
+        margin-left: 130px;
+        margin-top:20px;
+        letter-spacing: .7px;
+        color: black;
+        line-height: 30px;
+        font-family:SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif; ;
+    } 
+    .button5{
+        margin-left: -180px;
+        width: 3.5cm;
+        height: 32px;
+        border-radius: 20px;
+        background-color:#d2d655;
+        font-size: 13px;   
+         color:black;
+        margin-right:290px;
+        float: right;
+        margin-top: 50px;
+        font-weight: bold;
+        border-width: 1px;
+    }
+     .image6{
+        width: 30%;
+        height: 10px;
+     margin-top: 30px;
+    }
+    
+    
+    .img6{
+        width: 650px;
+        height: 350px;
+        margin-top:-255px;
+        margin-left: 650px;
+    
+    }
+     .background6{
+        background-color:#f2f0eb;
+        width: 650px;
+        height: 350px;
+        margin-top:40px;
+    } .head6{
+          font-size: 22px;
+          font-weight: bold;
+          font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+          margin-left: 130px;
+          padding-top: 120px;
+          color: rgb(3, 56, 27);
+          letter-spacing: 2px;
+    } .letter6{
+        font-size:18px;
+        float: left;
+        margin-left: 130px;
+        margin-top:20px;
+        font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+        letter-spacing: .7px;
+        color: black;
+        line-height: 30px;
+        
+    }  
+    .button6{
+        
+        margin-left: -180px;
+        width: 3cm;
+        height: 32px;
+        border-radius: 20px;
+        background-color: rgb(3, 56, 27);  
+        font-size: 13px;   
+         color: white;
+        margin-right:  280px;
+        float: right;
+        margin-top: 10px;
+        border-width: 1px;
+        border-color: white;
+    }
+    .paragraph-long{
+        font-size: 13px;
+        margin-left: 330px;
+        margin-top: 60px;
+        width: 25cm;
+        line-height: 25px;
+        letter-spacing: 1px;
+        font-family:  SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+        font-weight:10cm;
+}
+    .paragraph-short{
+        font-size: 13px;
+        margin-left: 300px;
+        margin-top: 60px;
+        width: 25cm;
+        line-height: 25px;
+        letter-spacing: .8px;
+        font-family:  SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+        font-weight:100px;
+} 
+.line2{
+
+margin-top: 30px;
+height: 3px;
+background-color:rgb(255, 255, 255);
+background-color: rgb(248, 245, 245);
+width: 40cm;
+}.headlines{
+    background-color:white ;
+    width: 35cm;
+    height: 10cm;
+}
+.about{
+    width:3cm;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    margin-left: 40px;
+    padding-top: 40px;
+    display: flex;
+}
+.careers{
+    width:3cm;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    margin-left: 240px;
+    margin-top:-26px;
+   
+}
+.social{
+    width:4cm;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    margin-left: 450px;
+    margin-top:-23px;
+}
+.for{
+    width:6cm;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    margin-left: 700px;
+    margin-top:-24px;
+}
+.order{
+    width:5cm;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    margin-left: 1000px;
+    margin-top:-25px;
+}
+.title{
+    margin-top: 30px;
+    width: 5cm;
+    height: 10px;
+    line-height: 40px;
+    margin-left: 30px;
+    font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif; 
+    color: gray;
+    font-weight:.5;
+}
+.title1{
+    margin-top: -280px;
+    width: 7cm;
+    height: 10px;
+    line-height: 40px;
+    margin-left: 200px;
+    font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif; 
+    color:gray;
+    font-weight:.5;
+} 
+.title2{
+    margin-top: -325px;
+    width: 7cm;
+    height: 10px;
+    line-height: 40px;
+    margin-left: 220px;
+    font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif; 
+    color:gray;
+    font-weight:.5;
+}
+.title3{
+    margin-top: -150px;
+    width: 7cm;
+    height: 10px;
+    line-height: 40px;
+    margin-left: 7cm;
+    font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif; 
+    color: gray;
+    font-weight:.5; 
+}
+.title4{
+    margin-top: -165px;
+    width: 7cm;
+    height: 10px;
+    line-height: 40px;
+    margin-left: 8cm;
+    font-family:SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif; 
+    color:gray;
+    font-weight:.5; 
+
+}.line3{
+    margin-top:80px;
+    height: 3px;
+     background-color:rgb(255, 255, 255);
+     background-color: rgb(248, 245, 245);
+      width: 100cm;margin-left: -30cm;
+}
+.spoty{
+    color: black;
+    font-size: 28px;
+    margin-left: -980px;
+    margin-top: 30px;
+}
+.facebook{
+    color: black;
+    font-size: 28px;
+    margin-left: 50px;
+    margin-top: -39px;
+}
+.pin{
+    color: black;
+    font-size: 28px;
+    margin-left: 50px;
+    margin-top: -39px;
+}
+.insta{
+    color: black;
+    font-size: 28px;
+    margin-left: 50px;
+    margin-top: -39px;
+    border-radius: 500px;
+}
+.you{
+    color: black;
+    font-size: 28px;
+    margin-left: 50px;
+    margin-top: -39px;
+    border-radius: 500px; 
+}
+.x{
+    color: black;
+    font-size: 28px;
+    margin-left: 50px;
+    margin-top: -39px;
+    border-radius: 500px; 
+} .types{
+    width: 6px;
+    margin-left:-250px;
+    font-size:15px;
+    color: black;
+} .types:hover{
+    text-decoration: underline;
+}
+ .types1{
+    width: 6px;
+    margin-left:500px;
+    font-size:15px;
+    margin-top: -20cm;
+ }
+ .typless{
+    margin-top: 2px;
+    margin-left: -250px;
+    color: black;
+ }
+ .typless:hover{
+    text-decoration: underline;
+ } 
+ .typless1{
+ margin-left:-250px;
+ font-size: 15px;
+ color: black;
+
+ }
+ .typless1:hover{
+    text-decoration: underline;
+ }
+ .typless2{
+    margin-left:-250px;
+ font-size: 15px;
+ color: black;
+ }
+.typless2:hover{
+    text-decoration: underline;
+}
+.typless3{
+    margin-left:-250px;
+    font-size: 15px;
+    color: black;
+}
+.typless3:hover{
+    text-decoration: underline;
+}
+.typless4{
+    margin-left:-250px;
+    font-size: 15px;
+    color: black;
+}
+.typless4:hover{
+    text-decoration: underline;
+}
+.typless5{
+    margin-left:-250px;
+    font-size: 15px;
+    color: black;
+   
+}
+ .typless:hover{
+  text-decoration: underline;
+}
+.End{
+    font-size: 12px;
+    color: rgb(184, 184, 184);
+    margin-left:-250px;
+}
+
+
+    
